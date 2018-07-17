@@ -1,0 +1,17 @@
+C:\с#\Simplex\Simplex\bin\Debug\Simplex.exe.config
+C:\с#\Simplex\Simplex\bin\Debug\Simplex.exe
+C:\с#\Simplex\Simplex\bin\Debug\Simplex.pdb
+C:\с#\Simplex\Simplex\obj\Debug\MainWindow.g.cs
+C:\с#\Simplex\Simplex\obj\Debug\App.g.cs
+C:\с#\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.cache
+C:\с#\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.lref
+C:\с#\Simplex\Simplex\obj\Debug\MainWindow.baml
+C:\с#\Simplex\Simplex\obj\Debug\Simplex.g.resources
+C:\с#\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+C:\с#\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.Cache
+C:\с#\Simplex\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+C:\с#\Simplex\Simplex\obj\Debug\Simplex.exe
+C:\с#\Simplex\Simplex\obj\Debug\Simplex.pdb
+C:\с#\Simplex\Simplex\obj\Debug\table.g.cs
+C:\с#\Simplex\Simplex\obj\Debug\table.baml
+C:\с#\Simplex\Simplex\obj\Debug\Simplex.csprojAssemblyReference.cache
